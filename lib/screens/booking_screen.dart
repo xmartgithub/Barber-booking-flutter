@@ -430,7 +430,7 @@ class BookingScreen extends ConsumerWidget {
               child: Column(
                 children: [
                   Text(
-                    "Thank You for Booing our services!".toUpperCase(),
+                    "Thank You for Booking our services!".toUpperCase(),
                     style: GoogleFonts.robotoMono(
                       fontWeight: FontWeight.bold,
                     ),
